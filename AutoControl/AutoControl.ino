@@ -1,6 +1,5 @@
 #include <M5StickC.h>
 #include "DHT.h"
-#include "Ambient.h"
 
 #define DHT_PIN 33
 #define RELAY_PIN 26
